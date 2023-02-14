@@ -35,7 +35,6 @@ After you're finished please remove all the comments and instructions!
 </div>
 
 <!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -62,7 +61,6 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
-> This is my first project
 
 **[Hello microverse]** is a simple linter configuration.
 
@@ -70,7 +68,6 @@ After you're finished please remove all the comments and instructions!
 HTML 5 and CSS 3
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -97,7 +94,6 @@ HTML 5 and CSS 3
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
 - **[display text]**
 - **[linters configuration]**
@@ -109,7 +105,6 @@ HTML 5 and CSS 3
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://github.com/Jessekay/Hello-microverse.git)
 
@@ -133,24 +128,24 @@ browser
 
 Clone this repository to your desired folder:
 
-<!--
+
 Example commands:
 
 ```sh
   cd my-folder
   https://github.com/Jessekay/Hello-microverse.git
 ```
---->
+-
 
 ### Install
 
 Install this project with:
 
-<!--
+
 
 npm
 ```
---->
+-
 
 ### Usage
 
@@ -179,7 +174,6 @@ index.html in browser
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[media query]**
 - [ ] **[javascript functionality]**
@@ -193,7 +187,7 @@ index.html in browser
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [https://github.com/Jessekay/Hello-microverse/issues](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -211,9 +205,8 @@ If you like this project... please share it!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank microverse for this exercise
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
