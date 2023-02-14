@@ -27,10 +27,10 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <!-- <img src="murple_logo.png" alt="logo" width="140"  height="auto" /> -->
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Hello Microverse</b></h3>
 
 </div>
 
@@ -60,14 +60,14 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Hello Microverse] <a name="about-project"></a>
 
 > This is my first project
 
-**[Hello microverse]** is a...
+**[Hello microverse]** is a simple linter configuration.
 
 ## 🛠 Built With <a name="built-with"></a>
-
+HTML 5 and CSS 3
 ### Tech Stack <a name="tech-stack"></a>
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
@@ -99,9 +99,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[display text]**
+- **[linters configuration]**
+- **[follow html and css best practice]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -166,7 +166,7 @@ index.html in browser
 
 
 
-👤 **Author1**
+👤 **Jesse**
 
 
 - GitHub: [@githubhandle](https://github.com/Jessekay)
@@ -181,9 +181,9 @@ index.html in browser
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[media query]**
+- [ ] **[javascript functionality]**
+- [ ] **[animations]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
